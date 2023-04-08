@@ -25,5 +25,5 @@ sequenceDiagram
     server->>browser: Updated json files with the newest notes
     deactivate server
 
-    Note right of browser: The browser executes the callback function that renders the new notes
+    Note right of browser: The browser executes the callback function that renders the latest notes
 ```
